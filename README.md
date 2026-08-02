@@ -8,7 +8,7 @@ A fully functional Pong game implemented on an FPGA using VHDL, with real-time g
 
 This project extends a basic Pong game starter into a 4-way controlled paddle system — the paddle can move up, down, left, and right in response to button presses, with all motion synchronized to the display's refresh tick and constrained within the playable game area.
 
-Built for EECE 412: Advanced Digital Systems Design Lab at Howard University, targeting a **Nexys A7-100T** FPGA board.
+ targeting a **Nexys A7-100T** FPGA board.
 
 ## How It Works
 
